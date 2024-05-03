@@ -1,0 +1,1355 @@
+[
+  {
+    "Name": "Ideal for GPC polymer analysis with triple detection",
+    "Description": "MALS-Visco detector for analysis of structure, shape and conformation of dissolved polymers\nCombined with an RI or UV detector, the simplest solution for triple detection\nFree, easy-to-use and advanced triple detection GPC/SEC software\nThe LenS3 MALS-V dual detector is an integrated light scattering and viscosity detector.\nCombined with the EcoSEC Elite GPC system and TSKgel columns, it offers a cost-effective and high-performance solution for triple detection.\nIn a triple-detection SEC setup, the refractive index detector measures concentration, MALS provides actual molecular weight and center of gravity radius (Rg), while the viscometer measures intrinsic viscosity (IV).\nThe intrinsic viscosity of polymers reflects how dense and flexible polymer chains are in dilute solutions.\nIn combination with light scattering measurements, the MW and IV distributions provide a wealth of structural information about polymers such as conformation, density of the backbone, presence of branches, hydrodynamic radius (Rh) or Mark-Houwink parameters.\nSECview software ensures seamless data acquisition and processing for viscometry and light scattering.\nHere's how to get the most out of triple detection GPC/SEC analysis.",
+    "APPLICATIONS": [
+      "Copolymer analysis",
+      "Dendrimer analysis",
+      "Dextran analysis",
+      "Gel permeation chromatography",
+      "Conformational analysis",
+      "Multi-angle light scattering",
+      "Multi-angle light scattering",
+      "Nanoparticle analysis",
+      "Polymer analysis",
+      "Polymer characterization",
+      "Branching analysis",
+      "Viscometry"
+    ],
+    "PRODUCT CATEGORIES": [
+      "GPC Detectors",
+      "Light Scattering Detectors",
+      "Multi-Angle Light Scattering Viscosity Detectors",
+      "Viscosity Detectors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "Selective GC detector for trace analysis of halogen and sulphur compounds",
+    "Description": "sensitive, element-specific detector for F, Cl, Br, I and S compounds\nSimple quantification via equimolar response, evaluation integrated into OpenLAB software\nScreenings for persistent contaminants such as PFAS and chlorinated paraffins in food and the environment\nThe Echelle Plasma Emission Detector (EPED) is an element-specific detector for the selective analysis of halogen and sulfur compounds.\nIt is more robust and sensitive than the element-specific atomic emission detector (AED).\nIn contrast to an MS detector, quantification can be carried out by means of equimolar response, i.e. simple concentration determination in complex matrices without primary standards.\nThe analytes are introduced directly after the GC column into the plasma cell, a quartz glass tube with pulsed high-frequency helium plasma.\nDue to this direct transition, adsorption effects are largely excluded, which is essential for quantification in fluorine analysis.\nTo avoid soot formation, the plasma is switched off during the solvent peak (solvent delay); this increases long-term stability and sensitivity of the detector.\nQuantification is carried out by means of the emitted light energy, which is detected with a CCD camera and is directly proportional to the concentration over a wide range of concentrations.",
+    "APPLICATIONS": [
+      "Chlorinated paraffin analysis",
+      "Fluorine analysis",
+      "Gas chromatography",
+      "Halogen analysis",
+      "Concentration determination",
+      "PFAS analysis",
+      "Sulphur analysis",
+      "Trace analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Echelle Plasma Emission Detectors",
+      "GC Detectors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "The smallest fluorimeter for HPLC",
+    "Description": "small: diameter 32 mm, length 128 mm. Fits in any system cool: the LED light source stays cool, the detector can operate at 3 °C, ideal for bioanalytics Biocompatible: only quartz glass and PEEK are wetted, PEEK also available in USP Class VI\nThe smallest fluorescence detector for liquid chromatography with interchangeable light sources and filters for many substances.\nAs a detector in the analytical laboratory or as one of many measurement channels in SMB systems, in process chromatography and for other fluorimetric applications.\nHigh sensitivity due to precise control of the light source via the reference channel.\nCombination of excitation light source and emission filter can be combined as desired.\nA measuring cell with a dwell volume of 9 μl and a passage of 1.2 mm.",
+    "APPLICATIONS": [
+      "Purification of active pharmaceutical ingredients",
+      "Bioanalytics",
+      "HPLC",
+      "Protein purification",
+      "Process chromatography",
+      "Drinking water analysis",
+      "Environmental analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Fluorescence Detectors",
+      "Fluorimeters",
+      "With Filter",
+      "With LED"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Take advantage of the advantages of UHPLC now also in the detection of your proteins",
+    "Description": "The advantages of UHPLC are being used in more and more laboratories: good separation of closely adjacent peaks, fine resolution, high sensitivity, time savings due to short separation times. You can now take full advantage of this quantum leap with the right detectors: The microDAWN is Wyatt's Multi Angle Light Scattering (MALS) light scattering detector that can be coupled with any UHPLC system.\nMALS – what is it, and how does it work? MALS (Multi Angle Light Scattering) is a technique for determining the molecular weight (Mw) of macromolecules such as proteins. The measurement is based on the detection of the intensity of the light scattered by the molecules. MALS is often referred to as classical or static light scattering (SLS). The special feature of this technology is that it can be used to perform absolute measurements, i.e. no standards or assumptions about the properties of the molecules are required.\nThe microDAWN can also be coupled to the Wyatt microOptilab, Wyatt's dRI instrument for refraction determination in the UHPLC environment. The two devices complement each other perfectly in order to make the advantages of light scattering and RI measurement, which have so far been used primarily in SEC MALS systems, now also successfully available at UHPLC.\nIf the peaks are analyzed using microDAWN, all advances in UHPLC are retained. The combination of microDAWN and microOptilab works without sacrificing analytical resolution and highest sensitivity thanks to minimal band widening.",
+    "APPLICATIONS": [
+      "Multi-angle light scattering",
+      "Protein characterization",
+      "UHPLC"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Refractive Index Detectors",
+      "Light scattering detectors",
+      "MALS detectors",
+      "Multi-angle light scattering detectors",
+      "UHPLC Detectors"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Thermo Scientific™ Charged Aerosol Detectors",
+    "Description": "Detection-strong, universal detection with almost uniform response\nDetection of all non-volatile and semi-volatile analytes in the sub-nanogram range\nRequires no chromophores and no ionization\nCharged aerosol detectors measure the charge that is directly proportional to the amount of analyte present. With almost all other detectors, it is observed that different analytes show a different response or that the mobile phases influence the detection.\nThermo Scientific Charged Aerosol (CAD) detectors can be used with advanced LC systems and measure analytes that are not visible with UV or are difficult to detect with other detectors. This includes molecules without chromophores.\nFeatures of Charged Aerosol Detectors:\nDetection of non-volatile and semi-volatile analytes\nUniform response regardless of chemical structure\nFor HPLC and UHPLC\nCompatible with gradient applications\nDetection in the sub-nanogram range\nSimple and straightforward implementation in the existing laboratory environment\nWith this straightforward technique, you can increase the efficiency of existing analytical processes. Expand your possibilities by making analytes visible that go unnoticed with other detectors.",
+    "APPLICATIONS": [
+      "Antibiotic analysis",
+      "Biopharma analysis",
+      "HPLC",
+      "Carbohydrate analysis",
+      "Plastics analysis",
+      "Food analysis",
+      "Lipid analysis",
+      "Pharma analysis",
+      "Polymer analysis",
+      "Surfactant analysis",
+      "UHPLC",
+      "Environmental analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Charged Aerosol Detectors",
+      "HPLC Detectors",
+      "UHPLC Detectors",
+      "Evaporation Detectors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Universal GC detector: detection down to the lower ppb range",
+    "Description": "The VICI Pulse Discharge Detector (PDD) is universal and based on the helium photoionization principle (HID/PID). It is highly sensitive and the sample is not destroyed during detection. The detector signal of both organic and inorganic compounds is linear over a wide range. Likewise, \"fixed gases\" provide a positive signal for a smallest detectable amount in the lower ppb range. The Gas Chromatography Detector PDD is the ideal replacement for FIDs in areas where the use of hydrogen or an open flame is problematic, such as the petrochemical industry and refineries. By adding noble gases such as argon, krypton or xenon to helium, the selectivity of the detector can be enhanced for specific aliphates, aromatics, amines and other compounds. The PDD is available in \"plug and play\" versions for the following GC models (using the device's own FID electrometer): Agilent 6890 and 7890 Shimadzu GC14, GC17, 2010 and 2014 Thermo Trace GC Varian GCs For other GC systems, we offer a detector with a separate \"stand-alone\" electrometer.",
+    "APPLICATIONS": [
+      "Gas Chromatography"
+    ],
+    "PRODUCT CATEGORIES": [
+      "GC Detectors"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "NanoStar II: DLS and SLS with touch operation",
+    "Description": "The DynaPro NanoStar II is a cuvette-based DLS instrument for the analysis of proteins, gene therapy vectors, viruses, liposomes and more. Quartz cuvettes provide robust and accurate measurements with as little as 2 μL of solution, while single-use cuvettes offer comparable sensitivity as low as 4 μL.\nEasy to use with DYNAMICS Touch: The NanoStar II is the only DLS instrument that provides fully integrated, direct measurement. DYNAMICS Touch is an intuitive DLS measurement application that is installed directly on the NanoStar. After the measurement, it shows you the results such as radius, molar mass and particle concentration and gives you information about the data quality. For the PC, DYNAMICS is our powerful and optionally 21 CFR Part 11 compliant software for acquiring, analyzing and reporting dynamic and static light scattering data.\nAnalysis of sample stability far beyond size: also measure particle concentration, second virial coefficient, diffusion interaction parameter and aggregation temperature.",
+    "APPLICATIONS": [
+      "Asymmetric river-field flow fractionation",
+      "Dynamic light scattering",
+      "Field flow fractionation",
+      "Hollow Fiber Field Flow Fractionation",
+      "Crystallization",
+      "Multi-angle light scattering",
+      "Protein crystallization"
+    ],
+    "PRODUCT CATEGORIES": [
+      "AF4 systems",
+      "HF5 systems",
+      "Laser",
+      "MALS detectors",
+      "Particles",
+      "Protein analyzers",
+      "Proteins",
+      "SLS"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "FFF-MALS System for Separation and Characterization of Macromolecules and Nanoparticles",
+    "Description": "Intelligent user interface for easier operation\nRevolutionary channel design, simpler and more robust\n\"Dilution Control Module\" to increase concentration after separation\nSince 2003, Wyatt has been offering an FFF MALS system under the Name \"Eclipse\". This product has now been completely redesigned. The product was developed with ease of use in mind. The system enables the separation of viruses, liposomes, nanoparticles, proteins and polymers in the size range from 1 nm to 1000 nm and their characterization using multi-angle light scattering (MALS).\nIn addition, we have developed a \"Dilution Control Module\" that can increase the concentration of the sample flowing to the detector by at least 5 times without loss of resolution. This is particularly interesting for fractionation. The newly developed mobility module \"Mobility\" can measure the electrophoretic mobility of samples in solution. If there are multiple species in the sample, it can also determine the mobility for each species.\nThe FFF channels have also been completely redesigned and are easier to assemble and more robust. They have temperature control that increases the reproducibility of retention time.",
+    "APPLICATIONS": [
+      "Asymmetric river-field flow fractionation",
+      "Field flow fractionation",
+      "Molecular Biology",
+      "Polymer Analysis",
+      "Polymer separation",
+      "Protein analysis",
+      "Separation"
+    ],
+    "PRODUCT CATEGORIES": [
+      "AF4 systems",
+      "Emulsions",
+      "Laser",
+      "macromolecules",
+      "MALS detectors",
+      "nanoparticles",
+      "particle analyzers",
+      "Polymers",
+      "protein analyzers",
+      "Separators"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Plastics",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "The most sensitive and versatile electrochemical detector for HPLC",
+    "Description": "AntecScientific's DECADE Elite electrochemical detector can be used with any HPLC system on the market. It can handle the fast-eluting peaks typical of UHPLC and is also compatible with capillary and nano-LC with the proprietary SenCell. The DECADE Elite, with its dedicated measuring cells, is by far the most sensitive electrochemical detector by today's standards.\nThese CDS software solutions can control the detector: OpenLAB and OL Chemstation (Agilent), Chromeleon (ThermoFisherScientific), Empower (Waters), Clarity(DataApex).\nThe DECADE Elite supports 3 operating modes: DC, Scan, Pulse. The mode depends on the type of application. DC mode is used for highly sensitive applications such as neurotransmitters, vitamins, phenols. The pulse mode (PAD) is used for the continuous cleaning and regeneration of an oxide-free Au surface for the detection of carbohydrates, antibiotics, etc. The scan mode is used for method development.\nThe DECADE Elite is the main component of Antec's ALEXYS analyzers.",
+    "APPLICATIONS": [],
+    "PRODUCT CATEGORIES": [
+      "Electrochemical Detection",
+      "electrochemical detection",
+      "hpaec-pad",
+      "HPLC detectors",
+      "UHPLC Detectors"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Compact 96-Well Microplate Oxygen Meter: FirePlate-O2",
+    "Description": "Compact, user-friendly & configurable. Incubator compatible. Flashing performance in 96 wells. Discover our compact multi-channel optical meter FirePlate-O2, which enables simultaneous oxygen measurement of up to 96 channels. Together with 96-well microplates with integrated oxygen sensors (minispots) or dispersed O2 nanoprobes, it offers an efficient solution for your research needs. Optical measurements of O2 and DO are carried out precisely. Our special Pyro Workbench measurement software allows for easy calibration and individual settings. Simply place the microplate on the FirePlate-O2 meter, calibrate the oxygen minispots/nanoprobes, and start temperature-compensated oxygen measurements in third-party incubators or on a shaker after fixation with the included adapter.",
+    "APPLICATIONS": [
+      "Biotechnology",
+      "Pharmaceutical Analysis",
+      "Process Development",
+      "Oxygen Measurement",
+      "Environmental Analysis",
+      "Process Engineering",
+      "Cell Cultivation"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Multichannel Meters",
+      "Microplate Accessories",
+      "Oxygen Meters",
+      "Oxygen Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Real-time particle analysis in liquids and powders with future AI-based shape classification",
+    "Description": "Real-time measurement of particle size and distribution. Precision at the level of individual particles. Future online integration and AI-based shape classification. Q.ANT particle sensors enable real-time analysis of particles in liquids and powders for particle sizes from 2 to 700 microns. The analysis results are operated and displayed via a browser-based, easy-to-use user interface that captures and visualizes detailed distributions of the number, size, velocity and trajectory of the particles as well as statistical analysis values of the measurements in real time.",
+    "APPLICATIONS": [
+      "Biotechnology",
+      "Liquid Analysis",
+      "Industrial Biotechnology",
+      "Particle Analysis",
+      "Particle Shape Analysis",
+      "Particle Shape Determination",
+      "Particle Size Determination",
+      "Particle Size Measurement",
+      "Particle Counting",
+      "Powder Analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Particle Analyzers",
+      "Particle Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Plastics",
+      "Food",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Handy oxygen meter with long-term data acquisition and a wide range of O2 sensors",
+    "Description": "The handy, compact oxygen meter FireStingFireSting-GO2 from PyroScience enables PC-independent long-term data acquisition (stand-alone) with one oxygen and one temperature channel for temperature-compensated oxygen measurements in gas, water and aqueous samples. Equipped with a built-in rechargeable battery, a high-contrast display with an intuitive user interface, a huge data storage capacity for long-term data acquisition (up to >1 year without charging), built-in relative humidity and atmospheric pressure sensors, which enables precise calibration of oxygen sensors and automatic pressure compensation of oxygen measurement. The device is based on the unique REDFLASH optical detection technology and is compatible with a wide range of optical oxygen sensor types.",
+    "APPLICATIONS": [
+      "Bioprocess Engineering",
+      "Biotechnology",
+      "Life Sciences",
+      "Long-Term Data Acquisition",
+      "Microbiology",
+      "Optical Oxygen Measurement",
+      "Oxygen Measurement",
+      "Environmental Monitoring"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Handheld Oxygen Meters",
+      "Oxygen Meters",
+      "Oxygen Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology"
+    ]
+  },
+  {
+    "Name": "Flexible Optical Oxygen & Temperature Meter",
+    "Description": "A device for high-resolution measurements in gas & water & solvents. Compatible with various sensor formats for oxygen measurements in a wide variety of samples. Measure quickly and high-resolution with mini-sensors or non-invasively through non-contact readout. The compact multi-channel oxygen meter FireSting-O2 can be combined with all optical oxygen and temperature sensors from PyroScience GmbH. The various interchangeable sensor formats for laboratory applications in aqueous liquids and gas phases include micro and mini sensors for measurements in small sample volumes or with high spatial resolution, robust sensors, smart solutions for non-invasive oxygen sensing with contactless readout in closed systems, flow cells and microfluidic approaches (dissolved oxygen).",
+    "APPLICATIONS": [
+      "Oxygen Measurement",
+      "Oxygen Partial Pressure Measurement",
+      "Oxygen Consumption Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Fiber Optic Oxygen Meters",
+      "Nanosensors",
+      "Optical Oxygen Sensors",
+      "Oxygen Meters",
+      "Temperature Meters"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "A device for pH & oxygen measurements in a single sample",
+    "Description": "Measure key analytes in a single sample with high precision and maximum flexibility. Many different sensor formats available, including sterile and pre-calibrated sensors. One device for O2, pH and temperature - many applications in the life sciences. The compact FireSting-PRO is a USB-controlled multi-analyte fiber optic meter that can be combined with all PyroScience optical O2, pH and temperature sensors, now also with sterile and pre-calibrated pH sensors. Each optical channel is freely configurable for multiple analytes and sensor types. These range from microsensors (50 μm tip) to robust probes (3 mm tip) and include various (sterile) non-contact sensor solutions (for closed system measurements and microfluidics) as well as sensors for various O2 and pH ranges. Multiple FireSting PRO devices can be operated with a PC in a Pyro Workbench window and offer scalable multi-analyte sensor systems with e.g. 8, 16, 32 or 64 channels.",
+    "APPLICATIONS": [
+      "Inline Measurement Technology",
+      "Microfluidics",
+      "pH Measurement",
+      "Oxygen Measurement",
+      "Screening",
+      "Temperature Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Measuring Instruments",
+      "Multi-Analyte Measuring Instruments",
+      "Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry"
+    ]
+  },
+  {
+    "Name": "Particle Size Analysis - High Resolution Images & Quantitative Analyses",
+    "Description": "Easy to use – for every user. Fully automated for unattended operation. Convert images into qualitative and quantitative data. EasyViewer: In-line particle size analysis tool for high-resolution microscope images and verifiable image analysis. Crystals, particles and droplets can be visualized and evaluated in real time with excellent detail. This allows for the improvement of yield, purity, filtration and quality. NEW! Image2Chords (I2C): I2C image analysis converts images into excellent CLDs, trends, and statistics. This enables, for example, the precise characterization of mechanisms such as nucleation, growth, dissolution, fracture and morphology. iC Vision: EasyViewer and the iC Vision software use innovative algorithms for autofocus, automatic lighting and automatic saving of the best images. This guarantees razor-sharp, high-resolution images of important events – even if they are working remotely.",
+    "APPLICATIONS": [
+      "Image Analysis",
+      "Imaging",
+      "Real-Time Measurements",
+      "Emulsion Analysis",
+      "High-Resolution Imaging",
+      "Particle Analysis",
+      "Particle Size Analysis",
+      "Process Development",
+      "Process Control",
+      "Process Monitoring"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Particle Size Probes",
+      "Particle Probes",
+      "Probes",
+      "Suspensions"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "6X: VEGA'S SIMPLE RADAR FORMULA FOR BETTER PROCESSES",
+    "Description": "One sensor for all applications. Easy selection and configuration. Individual production from individual components. Level sensors are designed to make it easier for users to monitor their industrial processes. The VEGAPULS 6X simplifies to the maximum: One sensor that covers all applications. The customer no longer needs to worry about the technology, frequency or design. Commissioning has been reduced to a minimum with just a few clicks and basic data. The VEGAPULS 6X also offers the best in terms of technology: self-diagnostic system, new radar chip technology, guidance system and SIL certification, as well as complete cybersecurity according to IEC 62443-4-2.",
+    "APPLICATIONS": [
+      "Level Measurement",
+      "Level Measurement",
+      "Process Automation",
+      "Process Monitoring",
+      "Tank Monitoring"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Level Sensors",
+      "Radar Sensors",
+      "Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "High-performance oxygen and binary gas analyzers with SIL 2 and ATEX, IECEx, cCSAus, TC TR",
+    "Description": "Both analyzers meet the requirements for SIL 2 according to IEC 61508. The XTP601 is based on a thermo-paramagnetic oxygen sensor, ideal for precise measurements in a wide range of background gases. The XTC601 uses a thermal conductivity (TCD) sensor for reliable gas composition measurements in biogas and other gas blends. Both devices offer high accuracy, easy touch-screen operation and are suitable for use in hazardous areas.",
+    "APPLICATIONS": [
+      "Exhaust Gas Monitoring",
+      "Gas Measurement",
+      "Inerting",
+      "LEL Monitoring",
+      "Hydrogen Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Binary Gas Analyzers",
+      "Gas Analyzers",
+      "Oxygen Analyzers",
+      "Oxygen Sensors",
+      "Thermal Conductivity Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "The new potentiostat ideal for battery, fuel cell and electrolysis applications",
+    "Description": "VIONIC powered by INTELLO offers unmatched specifications for wide applications in electrochemistry. High clamping voltage, wide current measurement range, and second sense electrode enable use in research tasks, including electrolysis and electrosynthesis. Features such as analog scan mode, measurement intervals of 1μs and integrated impedance spectroscopy up to 10 MHz, as well as network-compatible functions and a large internal memory round off the profile.",
+    "APPLICATIONS": [
+      "Battery Research",
+      "Electrochemistry",
+      "Energy Storage",
+      "Impedance Spectroscopy",
+      "Power-to-X"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Electrochemical Analyzers",
+      "Electrode Materials",
+      "Galvanostats",
+      "Potentiostats",
+      "Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "Sterilizable data logger for reliable routine and batch control",
+    "Description": "The data logger for routine and batch control in the RDG and steam sterilizer. The logger is characterized by high accuracy and the hose connection for the pressure sensor. This data logger is part of the accident set, which we recommend for every reprocessing unit for medical devices, in order to be able to continue to collect and store independent measurement data during reprocessing even in the event of a network failure. Advantages: robust data logger, wireless measurement, real-time data transmission, sterilizable data logger.",
+    "APPLICATIONS": [
+      "Batch Control",
+      "Steam Sterilization"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Data Logger"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Oxygen Meters: FirePlate-O2",
+    "Description": "Compact 96-Well Microplate Oxygen Meter: FirePlate-O2. Compact, user-friendly and configurable. Incubator compatible. Flashing performance in 96 wells. Efficient screening, scale-up/down, process development, environmental analyses, micro-cell cultivation. Discover our compact multi-channel optical meter FirePlate-O2, which enables simultaneous oxygen measurement of up to 96 channels. Together with 96-well microplates with integrated oxygen sensors (minispots) or dispersed O2 nanoprobes, it offers an efficient solution for your research needs. Optical measurements of O2 and DO are carried out precisely. Our special Pyro Workbench measurement software allows for easy calibration and individual settings. Simply place the microplate on the FirePlate-O2 meter, calibrate the oxygen minispots/nanoprobes, and start temperature-compensated oxygen measurements in third-party incubators or on a shaker after fixation with the included adapter.",
+    "APPLICATIONS": [
+      "Biotechnology",
+      "Pharmaceutical Analysis",
+      "Process Development",
+      "Oxygen Measurement",
+      "Environmental Analysis",
+      "Process Engineering",
+      "Cell Cultivation"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Multichannel Meters",
+      "Microplate Accessories",
+      "Oxygen Meters",
+      "Oxygen Sensors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Differential Differential Calorimeter: DSC 5+",
+    "Description": "Differential Differential Calorimeter DSC 5+. FlexMode - the measurement mode can be selected between DSC measurement in power compensation or heat flow. Electrical heat flow calibration allows for exactly repeatable measurements, without additional calibration. Robust sample changer for automatic processing of up to 96 samples and 7 reference crucibles. The new standard for DSC measurements in resolution, sensitivity and productivity. The next generation of differential scanning calorimetry, the DSC5+, sets the new standard in performance and productivity. Highest measurement performance is achieved through the FlexMode functionality, where you can choose between power-compensated and heat flow modes. This allows you to achieve maximum resolution of effects close to each other as well as maximum sensitivity to detect faint thermal effects. The new DSC5+ also offers efficient work through advanced automation: 96 samples and up to 7 interchangeable reference crucibles can be organized by the robust sample changer. Autonomous result evaluation by the associated STARe software as well as smart adjustment functionality further complement the automation. And all this in a modular concept, i.e. tailor-made solutions for current use but always expandable for future requirements.",
+    "APPLICATIONS": [
+      "Scanning Calorimetry",
+      "Glass Transition Determination",
+      "Crystallization Analysis",
+      "Crystallization Control",
+      "Plastics Analysis",
+      "Melting Point Determination",
+      "Thermal Analysis",
+      "Heat Capacity Determination"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Scanning Calorimeters",
+      "DSC Systems",
+      "Differential Scanning Calorimeters",
+      "Thermal Analysis Systems"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Plastics",
+      "Food",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Rheometer: Auto-Trim Accessory for Rheometer",
+    "Description": "Automatic trimming for the rheometer. Increased operator-free time by 80% and less than two minutes of operator time per test. Training time is reduced from 2 weeks to less than 30 minutes thanks to plug-and-play accessories. Excellent data consistency through automatic removal of excess material. Simplify polymer melt rheology by automating the heating and trimming process. The automatic trimming accessory for the Discovery Hybrid Rheometer (DHR) simplifies rheological measurement of polymer melts by automating sample preparation. Instead of opening the oven after filling the geometry and tempering the sample in a further step to manually trim the sample, users can simply attach the accessory at the beginning, load the sample and press start to run the experiment to completion. TA's proprietary technology conditions the specimen, adjusts the required measurement gap, and trims the specimen at the correct time during the test, without the need for operator intervention. This increases operator intervention time by 80% and reduces training for new users from 2 weeks to 30 minutes. In addition, the probability of a negative influence of the operator on the results is significantly reduced. Automatic trimming allows your lab to perform more tests reliably and accelerate product development and time to market.",
+    "APPLICATIONS": [
+      "Polymer Analysis",
+      "Rheological Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Rheometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Plastics",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Battery Calorimeter: NEW Battery Cycler Microcalorimeter Solution",
+    "Description": "Battery cycler microcalorimeter solution. Measures thermodynamic and electrochemical properties of battery cells during operation. Track their parameters during charging and discharging, continuously in real time. Simultaneous measurement of parasitic currents when several battery cells are cycled at the same time. Measure thermodynamic and electrochemical properties of battery cells. The battery cycler microcalorimeter measures thermodynamic and electrochemical properties of battery cells in operation. Track their parameters during charging and discharging, continuously in real time, flexibly and intuitively. A common software of this battery cycler microcalorimeter solution enables seamless control of the TAM IV and the BioLogic VSP-300 potentiostat. A lot of data can be tracked directly in real time, not only after evaluation after the experiments. In this way, early results are immediately visible. Simultaneous measurement of parasitic currents when simultaneously cycling several battery cells of different shapes (button cells, pouch cells, cylindrical cells)",
+    "APPLICATIONS": [
+      "Battery Cycling",
+      "Battery Analysis",
+      "Battery Cycling",
+      "Characterization of Capacity Loss in Cycling",
+      "Electrochemistry",
+      "Entropy Changes",
+      "First Cycle Reaction",
+      "Microcalorimetry",
+      "Parasitic Currents",
+      "Self-Discharge",
+      "Thermal Management",
+      "Cycle Reaction"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Battery Calorimeters",
+      "Battery Cyclizers",
+      "Lithium-ion Batteries",
+      "Microcalorimeters"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "Flash Point Meters: ERAFLASH & ERAFLASH S10",
+    "Description": "Flash point measurement: Efficiency through maximum safety and highest measurement speed. Maximum safety: Measurements are carried out completely without an open flame (ASTM D6450 and D7094). Unsurpassed performance: The innovative PBT – Peltier Boost TechnologyTM. Automated measurement and high sample throughput: smallest sample volume of 1-2 mL, analysis of up to 10 samples within 90 min (ERFLASH S10). Super-fast and automatic flash point measurement, intrinsically safe and without an open flame. With the ERAFLASH flash point tester and the ERAFLASH S10 10-position flash point sample changer, determining the flash point of a sample is easier and safer than ever before. The use of the innovative Continuously Closed Cup Flash Point Method (CCCFP) - ASTM D6450 and D7094 - guarantees maximum safety. The entire measurement process is intrinsically safe and takes place completely without an open flame. Due to the small sample volume of only 1-2 mL, ERAFLASH and ERAFLASH S10 are perfectly suited to determine the flash point of fuels, lubricating oils, paints, fragrances and many other samples. Both devices cover an unmatched temperature range of -25°C to 420°C (-13°F to 788°F). eralytics' patented PBT – Peltier Boost Technology enables previously unattainable heating and cooling rates. The high-performance Peltiers reach down to -25 °C and the protective mechanism efficiently protects them from temperatures up to 420 °C. The low-temperature model ERFLASH LT even reaches -40 °C oven temperature with very fast cooling rates.",
+    "APPLICATIONS": [
+      "Flash Point Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Flash Point Meters",
+      "Flash Point Testers"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry"
+    ]
+  },
+  {
+    "Name": "Density meters: ERADENS X",
+    "Description": "The world's smallest and lightest D4052 density meter. Xtra Simple: Efficient and easy sample filling from above. Xtra Robust: Robust and versatile for high-precision measurements, even in extreme conditions. Xtra Accurate: Measurement accuracy down to the 5th decimal place. Density determination in full compliance with international standards ASTM D4052 and ISO 12185. ERADENS X is the world's smallest and lightest high-precision density meter that determines density in full compliance with international standards ASTM D4052 and ISO 12185. Its revolutionary oscillating oscillator technology with the vertically oriented x-oscillating metal bending oscillator is extremely reliable and insensitive to the harshest environmental influences. ERADENS X is therefore the perfect solution for measuring density in stationary laboratory facilities and is also predestined for use in mobile laboratories due to its robustness. With the unique top-down sample filling, ERADENS X is easy to use for both right- and left-handed users. ERADENS X with its x-oscillating oscillating oscillator delivers density measurement results with 5-digit precision. Automatic viscosity correction ensures the highest possible accuracy over a temperature range of 0 – 100 °C. The FillingProof technology developed and patented by eralytics ensures bubble-free filling.",
+    "APPLICATIONS": [
+      "Density Measurement",
+      "Fragrance Analysis",
+      "Beverage Analysis",
+      "Fuel Analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Density Meters"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Beverages",
+      "Plastics",
+      "Food"
+    ]
+  },
+  {
+    "Name": "Viscometer: ERAVISC X",
+    "Description": "2 in 1: Viscosity and density measurement with laboratory precision. High-precision measurement of dynamic and kinematic viscosity. Simultaneous measurement of density and viscosity. Compact design: Can be used as a mobile, portable device or space-saving in the laboratory. Viscosity and density measurement: ASTM D445, D7042, D4052 and ISO 12185. ERAVISC X's revolutionary capillary measuring cell ensures the highest possible accuracy over a temperature range of 15°C to 100°C. The use of the latest Peltier technology enables a fully automatic and super-fast measurement of the viscosity index. In addition, the innovative eralytics FillingProof technology guarantees bubble-free filling and thus achieves maximum precision. The separate measuring cells for viscosity and density allow both quantities to be determined simultaneously at different temperatures. ERAVISC X determines the capillary flow time by means of a rapid differential pressure measurement. This patented principle combines the precision of traditional measurement methods with the speed and ease of use of eralytics measuring instruments. ERAVISC X is therefore the perfect solution for measuring viscosity in stationary laboratory facilities and, due to its robustness, is also predestined for use in mobile laboratories.",
+    "APPLICATIONS": [
+      "Density Measurement",
+      "Kinematic Viscosity Measurement",
+      "Oil Analysis",
+      "Lube Oil Analysis",
+      "Viscosity Measurement"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Viscometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemicals",
+      "Beverages",
+      "Food",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Analytics Systems: SAN++ ® Compact",
+    "Description": "Continuous Flow Analyzer - latest generation to automate your photometry. Up to 360 measurement results per hour, (60 analyses per hour simultaneously for up to 6 parameters). Fully automatic sample handling with homogenization, dilution, digestion, distillation and other analytical methods according to ISO 14403, ISO 17380, ISO 14402, ISO 11732, ISO 13395, ISO 15681 and others. Analyze numerous samples with different matrixes – quickly and cost-effectively. With the new SAN++ Compact, Skalar continues the tradition of reliable continuous flow analyzers, but offers an optimal solution for laboratories with less space. Despite its compact design and smaller footprint, the SAN++ Compact offers the same high level of automation. It is an ideal and cost-effective solution for laboratories that require automation of up to 6 parameters. The chemistry unit can be equipped with automatic sample preparation, such as inline dialysis, digestion or distillation for complex applications. The advanced low-level detection, supported by the latest software development, makes the analyzer the most advanced fully automated system on the market. Depending on the application, a throughput of 20 to 60 analyses per hour can be easily achieved, with a wide range of different sample types being determined with high accuracy and cost-effectively.",
+    "APPLICATIONS": [
+      "Beer Analysis",
+      "Soil Analysis",
+      "Continuous Flow Analysis",
+      "Laboratory Automation",
+      "Photometry",
+      "Segmented Flow Analysis",
+      "Drinking Water Analysis",
+      "Environmental Analysis",
+      "Water Analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical Systems",
+      "Continuos Flow Analyzers",
+      "Photometers"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Beverages",
+      "Food"
+    ]
+  },
+  {
+    "Name": "Spectrophotometer: NANOCOLOR Advance",
+    "Description": "The all-rounder for photometric water analysis. Universal – Wide range of evaluable test kits. Intuitive – icon-based menu navigation and barcode technology. Safe – Automatic detection of disturbing turbidities. Intuitive spectrophotometer for reliable measurement results in the daily laboratory routine. In the NANOCOLOR Advance, MACHEREY-NAGEL combines the most important features from our portable compact photometers and high-precision spectrophotometers. The Advance has all the advantages of a modern spectrophotometer, combining high-quality results with outstanding ease of use. The icon-based menu navigation and the colour 5“ touchscreen allow operation like on your smartphone or tablet. With the integrated barcode scanner, fast and convenient work is guaranteed. Our tried-and-tested NTU check warns the user of disturbing turbidity. Easy-to-use quality control features allow for efficient and accurate control of measured value quality. More than 220 pre-programmed methods and a simply structured menu for programming user methods make the NANOCOLOR Advance the ideal instrument for all water and wastewater analysis applications.",
+    "APPLICATIONS": [
+      "Wastewater Analysis",
+      "Chemical Oxygen Demand Analysis",
+      "Food Analysis",
+      "Phosphate Analysis",
+      "Nitrogen Analysis",
+      "Drinking Water Analysis",
+      "Water Analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Spectrophotometers",
+      "Portable Measuring Instruments"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Beverages",
+      "Food"
+    ]
+  },
+  {
+    "Name": "Potentiostats: PTC Series",
+    "Description": "Systems for the characterization of electrolysers / fuel cells / batteries. Maximum current up to 100 amps. Measurements can also be carried out on large areas with a high material turnover. Impedance spectroscopy (EIS) over two channels between 1 mHz and 100 kHz. Electrochemical impedance spectroscopy (EIS) in the power range up to max. ±100A@±5V. Kolibrik's high-current potentiostats/galvanostats operate in 4 measuring ranges from the mA range to the respective maximum current and at an accuracy of 0.1%. Depending on the system, the currents range from 20 to a maximum of 100 amps. Commercial battery single cells as well as fuel cells, redox flow batteries, electrolysers and single cells of other energy storage and conversion concepts as well as cell stacks can be characterized within the available potential window of ± 5 volts or ± 10 volts.",
+    "APPLICATIONS": [
+      "Battery Research",
+      "Electrochemistry",
+      "Electrochemical Impedance Spectroscopy"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Electrolyzers",
+      "Energy Storage",
+      "Galvanostats",
+      "Potentiostates"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "Laboratory balances: XPR Essential",
+    "Description": "XPR Essential laboratory balances - Highly precise results with exactly the functions you need. Accurate results even in the fume cupboard. Robust construction for a long service life. Ergonomic weighing for more productivity. Our new analytical and microbalances were developed in Switzerland , designed and manufactured to provide everything you need for your daily weighing tasks. The high-performance load cell and hanging weighing pan ensure accurate results. The low average weight allows the use of smaller samples, resulting in significant savings. High-quality materials and special design features protect the load cell and the electronics, ensuring reliable weighing performance for many years. The innovative wing doors of our microbalances and the motorized doors of the analytical balances open effortlessly at the push of a button and offer you free access to the weighing chamber thanks to the low weighing pan Put down your weighing table. The scale terminal can be placed where it is most convenient. The compact, space-saving device reduces the amount of material used in construction. We use sustainable, 100% recyclable cardboard packaging and have been climate-neutral since 2020.",
+    "APPLICATIONS": [
+      "Weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical balances",
+      "Laboratory balances",
+      "Microbalances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Moisture Analyzers: ULTRA X 3011HQ",
+    "Description": "Moisture analyzer with drying temperature up to 600 °C saves time and costs. The moisture analyzer ULTRA X 3011HQ is the ULTRA Drying while weighing samples from 1g to 200g is possible. The special design of this device allows a drying temperature of up to 600 °C without affecting the function of the built-in scale. There is no need to handle the sample between the laboratory oven, scale and desiccator X Moisture analyzer. This means that the measurement results are available more easily and quickly than the laboratory oven. This saves time and money Drying temperature can be continuously adjusted from 105 °C to 600 °C. Moisture (loss on drying), solids (dry matter), atro (moisture based on dry matter), g/kg (o/oo) and residual weight are optionally displayed during the measurement process. The automatic switch-off stops the measurement when the constant weight is reached. The end of the measurement is indicated by an optical and acoustic signal. If a sample should catch fire, this is no problem for the robust ULTRA X moisture analyzers with metal housings. A printer for GLP-compliant output can be installed. The existing USB data interface is a given. For the automatic system, it is optionally possible to save 9 different combinations of drying parameters. Standard accessories include: Two reusable stainless steel bowls included. To protect the shells, there are inexpensive aluminum foil cuts as special accessories that can be formed into suitable aluminum shells using the ULTRA X foil press. For other special areas of application such as plaster testing, specifically light materials such as wood chips, larger weights of up to 400g such as brass chips, etc., moisture analyzers with drying temperatures of 40 °C to 360 °C are in the ULTRA X production and delivery program.",
+    "APPLICATIONS": [
+      "Moisture analysis",
+      "Moisture determination",
+      "Dry matter determination",
+      "Ashing",
+      "Water content determination"
+    ],
+    "PRODUCT CATEGORIES": [
+      "moisture analyzers",
+      "moisture analyzers",
+      "moisture determination scales",
+      "moisture measuring devices",
+      "gravimetric measuring devices"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Analytical Balances: XPR Micro-Analytical Balances",
+    "Description": "Readability in micrograms and high maximum load. Unique microbalance maximum load. Correct results the first time. Avoid hidden errors with StaticDetect. A microanalytical balance is an extremely accurate balance with a readability in the microgram range and high maximum load, which is perfect for weighing in very small samples This is made possible by a second, internal wind shield that ensures a stable environment in the weighing room. The XPR micro-analytical balances from METTLER TOLEDO offer a readability of 0.001 mg and a maximum load of up to 52 g Minimum weights allow you to achieve significant material and cost savings. With the outstanding load cell, the high maximum load (Max) and the outstanding stability, you can dose micro samples directly into your tare container in one operation. The integrated StatusLight™, the LevelControl and GWP Approved ensure this Actively correct and audit-proof weighing results. If electrostatic charges are detected on samples and containers, a warning is issued. The optional ionizer eliminates charges in seconds.",
+    "APPLICATIONS": [
+      "analytical weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical balances",
+      "Micro-analytical balances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Precision Balances",
+    "Description": "Accurate and precise weighing equipment for laboratory and production. Precise performance. Glove-friendly touchscreen. Robust construction. A precision balance is an accurate, robust scale with maximum loads from 120 g to 64 kg and readabilities from 1 g to 0.1 mg. Lower readability models have a windshield to ensure the best performance, while high capacity models have a large weighing pan for heavy loads. Precision balances are used in a variety of applications in laboratory and production environments, such as Sample and standard preparation, formulation, statistical quality control and counting applications. Reliable weighing technologies and FACT, the fully automatic adjustment using the scale's internal weights, ensure consistently accurate weighing performance. The color touchscreen has an intuitive user interface with simple menus and clear symbols. It is easy to use – even with textile or rubber gloves. Robust construction. The metal base, stainless steel weighing pan and overload protection ensure reliable performance even with intensive daily use.",
+    "APPLICATIONS": [
+      "Sample Preparation",
+      "Quality Control",
+      "Standard Preparation",
+      "Piece Counting",
+      "Counting"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Precision balances"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "MS-TS Analytical Balance",
+    "Description": "Analytical balances are highly accurate weighing instruments that deliver precise and reliable results. With an extra-large graphical color touchscreen and a robust all-aluminum housing, the MS-TS Analytical Balance offers exceptional accuracy in the laboratory. Equipped with a windshield for a stable weighing environment, offers They have a maximum load of 52 to 520 g and a readability of 0.002 to 1 mg. Typical applications include sample and standard preparation, formulation, differential weighing, density determination and routine pipette testing.",
+    "APPLICATIONS": [
+      "Density determination",
+      "Difference weighing",
+      "Pipette routine tests",
+      "Sample preparation",
+      "Standard preparation",
+      "Weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical balances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Pioneer PX",
+    "Description": "The Pioneer PX precision scale offers top performance and reliable results even in the face of temperature fluctuations and electromagnetic fields. With an intelligent two-line display, it is easy to use and has an internal calibration that saves time and money. The robust construction and The replaceable protective cover makes it a reliable companion in the laboratory. The Pioneer PX is suitable for a variety of applications, including density determination, dynamic weighing, formulations, percent weighing, piece counting and weighing.",
+    "APPLICATIONS": [
+      "Density determination",
+      "dynamic weighing",
+      "Formulations",
+      "Percentage weighing",
+      "Piece counting",
+      "Weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical balances",
+      "Precision balances",
+      "Balances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Quartz microbalances: GAMRY EQCM 15M",
+    "Description": "The eQCM 15M from Gamry is a versatile quartz microbalance that can be used as a standalone balance or in conjunction with a Gamry potentiostat/galvanostat/ZRA. It is ideal for applications such as electropolymerization, metal deposition, Li-ion batteries , supercapacitors, corrosion studies and more. With the Gamry software 'Resonator' mass changes can be related to the potential and the current.",
+    "APPLICATIONS": [
+      "Electrogravimetry",
+      "Electropolymerization",
+      "Interface Research",
+      "Corrosion Studies",
+      "Weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Microbalances",
+      "Quartz Microbalances"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Test weights: Carepacs",
+    "Description": "The CarePacs from METTLER TOLEDO are professional packages for simple routine tests on balances. They contain tweezers, gloves and other accessories for the professional handling of test weights. Reliable routine tests can be carried out with just two test weights, which saves time and money provides accurate measurement results. The CarePacs offer safety through high-quality accessories and enable compliance with process tolerances.",
+    "APPLICATIONS": [
+      "Density determination",
+      "Filtration",
+      "HPLC",
+      "microbiological analysis",
+      "sample preparation",
+      "drinking water analysis",
+      "environmental analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Test weights",
+      "Balances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "XPR precision balances",
+    "Description": "The XPR precision balances deliver precise and accurate weighing results even in the harshest conditions. The innovative SmartPan™ weighing pan minimizes the impact of airflow on the load cell and enables faster delivery of results. With unique quality assurance features such as GWP Approved and password-protected user profiles They provide maximum process reliability. The extremely robust scales are designed for use in demanding environments and resist accidental overloading, aggressive chemicals, dust and dirt. Smooth surfaces, rounded edges and additional covers in combination with a full metal housing make cleaning easy and protect against external influences such as dust, splash water and chemicals. With a reading range between 0.1 mg and 1 g and a capacity of 200 g to 64 kg, the XPR precision balances offer a versatile solution for various applications.",
+    "APPLICATIONS": [],
+    "PRODUCT CATEGORIES": [
+      "Precision Balances",
+      "Balances"
+    ],
+    "TARGET INDUSTRIES": []
+  },
+  {
+    "Name": "Laboratory Balances",
+    "Description": "New generation of laboratory balances for a wide range of applications. Intelligent, integrated functions and intuitive operation make your daily work easier. Accurate, reliable results you can trust, as well as improved GxP compliance. High-quality and sustainable materials guarantee long-lasting performance . Rely on accurate weighing results for all your applications! With the new laboratory balance portfolio, users can benefit from reliable performance and trustworthy results, easy operation, advanced technology and widely available service know-how. The new portfolio includes readabilities of 1 g to 0.01 mg and capacities from 52 g to 32 kg, including large platforms and compact portable models. Our ultimate goal is to give users the confidence they need for accuracy and reliability to meet the demands of all their weighing tasks fulfill.",
+    "APPLICATIONS": [
+      "Sample Preparation",
+      "Quality Control",
+      "Standard Preparation",
+      "Weighing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Analytical balances",
+      "Laboratory balances",
+      "Precision balances",
+      "Semi-microbalances"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Car Trim accessories for the rheometer",
+    "Description": "The auto-trim accessory for the DHR simplifies polymer melt rheology by automating the process of sample heating and trimming. Instead of having to open the oven to manually trim samples during the tests, users can simply attach the accessories, load their sample and press Start to run the experiment to completion. TA's proprietary technology automatically conditions the sample, adjusts the gap and trims the sample at the appropriate time during the test without any operator intervention.",
+    "APPLICATIONS": [
+      "Polymer Analysis",
+      "Polymer Melt"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Auto-Trim Rheometer",
+      "Rheometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Pharmaceuticals",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "VICI Valco/Cheminert Catalogue",
+    "Description": "The catalog contains a variety of products such as valves, fittings, filters, capillaries, GC detectors and GC columns. It offers valves for chromatography, valve actuators, gas cleaning filters, gas flow regulators, fittings, hoses and capillaries in various materials as well as a variety of other accessories. In addition, the catalog contains applications for valve circuits and other valuable tips on chromatography.",
+    "APPLICATIONS": [
+      "Affinity Chromatography",
+      "Solid phase extraction",
+      "Liquid chromatography",
+      "Gas chromatography",
+      "Supercritical liquid Chromatography",
+      "Supercritical fluid extraction",
+      "UHPLC"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Chromatography Fittings",
+      "Chromatography Accessories",
+      "Chromatography columns",
+      "Chromatography valves",
+      "Stainless steel capillaries",
+      "Fittings",
+      "Gas chromatography valves",
+      "GC Detectors",
+      "GC columns",
+      "HPLC Switching Valves",
+      "HPLC Accessories",
+      "Capillary columns",
+      "Capillary tubes",
+      "UHPLC Fittings",
+      "UHPLC valves",
+      "UHPLC Accessories"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Drinks",
+      "Plastic",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Flow Reactors: Redeem continuous-flow Photoreactor",
+    "Description": "Scalable, green and efficient synthesis with the Redeem photoreactor Redeem Solar Technologies GmbH Maximum flexibility due to individualization and scalability Maximum product purity and selectivity due to an integrated membrane No catalyst purification by a fixed bed catalyst (optional) The new Redeem photoreactor opens up unique opportunities in the world of chemical synthesis Experience the perfect synergy of flow chemistry and photocatalysis with our groundbreaking photoreactor. Unleash unsurpassed efficiency and innovative results with simple quality control, exceptional reproducibility, intensified processes at low temperatures and absolute process reliability at the same time. Tailor your reactor perfectly to your application by choosing the ideal dimensions and materials that exactly meet your unique chemical requirements. For maximum selectivity and product purity, the innovative design offers the possibility of integrating a membrane for gas/gas, gas/liquid or liquid/liquid separations. Due to the fixed photocatalyst fixed in the reactor, the annoying step of catalyst removal can also be avoided. This guarantees a catalyst service life that is more than 8 times longer and can be adapted and optimized by our team as required in order to give you the necessary competitive advantage.",
+    "APPLICATIONS": [
+      "Chemical synthesis",
+      "Flow Chemistry",
+      "Drug synthesis",
+      "Photochemistry",
+      "Process optimization",
+      "Process scaling"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Continuous-Flow reactors",
+      "Flow reactors",
+      "Flow reactors",
+      "Photoreactors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Plastics",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Synthesis reactors: EasySyn",
+    "Description": "Reactor system for chemical synthesis IKA-Werke GmbH & Co. KG Ergonomically designed tripod for all vessel sizes from 500 to 5000 ml Easy handling and long service life All additional components from a single source: agitators, thermostats, vacuum technology, software Ideal for organic and aqueous syntheses With its double-walled reactor vessels from 500 ml to 5000 ml, EasySyn is a medium-sized and very flexible upscaling system. It ensures safe and reproducible chemical reactions. In many applications, controllable and reproducible reaction conditions are essential to achieve reliable and comparable results. With EasySyn, these conditions are guaranteed by the use of high-quality materials in combination with technically sophisticated accessories. For example, the reactor systems are suitable for research and development, the chemical industry or materials research. EasySyn is the only reactor system for which you can get all the additional components from a single source: agitators, thermostats, vacuum pumps and controllers, sensors and automation software. Everything from IKA and everything perfectly matched.",
+    "APPLICATIONS": [
+      "chemical synthesis",
+      "Crystallization",
+      "organic synthesis",
+      "Reflux condensations",
+      "aqueous synthesis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Glass reactors",
+      "Laboratory reactors",
+      "Reactor systems",
+      "Synthesis reactors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Plastics",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Heating systems: Berghof - Reactor Controller",
+    "Description": "All-in-one heating system for small reactors with easy-to-use touch controller Berghof Products + Instruments GmbH All-in-One combines heating, control, stirring and cooling in a clear, space-saving design Auto-tuning enables optimal process control through specifically optimized PID parameters Active air cooling provides optimal heating rates and accelerated cooling Touch controllers are easy to use and provide quick access to all important functions Our most powerful heating system for small reactors up to 300ml offers you an intelligent stirring system in addition to the auto-tuning function. This detects disturbances such as, for example, a disruption of the stirring fish movement and thus ensures the stirring even without the possibility of optical control. In addition, our high-performance heating system offers you the possibility of air cooling the reactors, which improves the cooling times and temperature accuracies with rapid heating. The built-in touch controller, like the universal Berghof controller (BRC), provides quick access to all important parameters. The auto-tuning function allows you to easily and quickly determine PID control values specifically for your system. This reduces fluctuations in the target temperature by over 80%, which leads to better reproducibility and to fewer undesirable by-products. The BRC can be individually adapted to your needs with modular extensions.",
+    "APPLICATIONS": [
+      "Electrochemistry",
+      "Hydrogenations",
+      "Hydrothermal synthesis",
+      "Corrosion tests",
+      "Material testing",
+      "Nanotechnology",
+      "Solvothermal synthesis",
+      "Synthesis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Autoclaves",
+      "Pressure autoclaves",
+      "Pressure reactors",
+      "Heating systems",
+      "Small reactors",
+      "Test autoclaves",
+      "Test reactors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Drinks",
+      "Plastic",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "High pressure reactors: Berghof reactor technology - High and low pressure reactors, pressure vessels and metal-free reactors",
+    "Description": "Individually configured pressure reactors offer easy handling, flexibility and functionality Berghof Products + Instruments GmbH PTFE lining for effective corrosion protection allows the use of highly corrosive media Flexibility and individuality - The modularly designed reactors are individually configured Easy handling-Simply open / close the quick-release fastener by hand without tools Pressure reactors with and without PTFE lining for laboratories and pilot plants up to 300 ° C, 200bar and 100 liters For more than 50 years, Berghof has been offering comprehensive competence in the manufacture of reactor systems. Our portfolio includes high-pressure (200bar), low-pressure (25bar) and metal-free reactors (200bar) for applications up to 300°C. Important similarities are the simple, tool-free closing and opening - thanks to the unique quick-release fastener - as well as the specially developed PTFE lining, which avoids damage to the reactors by aggressive media. Your advantages: You benefit from easy handling and reduced wear. All Berghof reactors offer you the greatest possible flexibility and functionality with the highest safety standards. Thanks to our modular system, you can configure your reactor to suit your specific needs. Extensive accessories are also part of our portfolio. If, nevertheless, the right thing is not there, we will also design reactors and components individually according to your wishes.",
+    "APPLICATIONS": [
+      "Hydrogenations",
+      "Hydrothermal synthesis",
+      "Corrosion tests",
+      "Material testing",
+      "Solvothermal synthesis",
+      "Synthesis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Autoclaves",
+      "Pressure autoclaves",
+      "Pressure reactors",
+      "High-pressure reactors",
+      "Reactor"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Drinks",
+      "Plastic",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Synthesis Stations: Xelsius Reaction Work Station",
+    "Description": "10 individually temperature-controlled and controlled experiments, space-saving in just a single device nevoLAB GmbH Start up to 10 reactions within a few minutes Reliable and reproducible reaction data - prepared for AI & documentation Reduce the CO2 footprint and the use of chemicals Ideal for drug discovery, route scouting, synthesis as well as process optimization & DoE studies The xelsius Reaction Workstation is a compact, innovative and very fast synthesis block with 10 individually temperature-controlled and stirred reactors from -20°C to +150 °C. The right tool for organic chemists in parallel synthesis, reaction and process optimization, solvent Screening and crystallization, drug development, as well as for Design of Experiment (DoE) studies. Achieve reproducible results in small reaction volumes from 0.5 ml to 30 ml, easy operation with high experimental quality at the same time. Combined with modern data management, you can use valuable working time, chemicals and energy very efficiently. An innovative, modern device for chemical laboratory & research, product development and quality control as well as in drug development. Ideal for drug discovery, route scouting, synthesis as well as process optimization & DoE studies",
+    "APPLICATIONS": [
+      "chemical synthesis",
+      "Design of Experiment",
+      "Hydrogenation",
+      "Crystallization",
+      "Solubility studies",
+      "Parallel synthesis",
+      "Protein Stability Test",
+      "Process optimization",
+      "Quality control",
+      "Route-Scouting",
+      "Drug development",
+      "Drug synthesis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Laboratory reactors",
+      "Reaction Workstation",
+      "Synthesis stations"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "Flow Reactors: PhotoSyn™",
+    "Description": "A comprehensive range of flow photoreactors for almost any application Uniqsis Ltd Versatile: wide range of output wavelengths for both batch and flow applications Safe: no light loss during operation & safety barriers Scalable: wide range of coil reactor sizes available Easy control Interface, scale-up and safety flow photoreactor systems Uniqsis offers the widest range of photochemistry products of all flow chemistry companies. The Uniqsis Borealis is a high-intensity LED lamp unit available in a range of fixed wavelengths that converts the existing cold Coil reactor module into a flow reactor for photochemical applications. The Photochemistry LED Illuminator was developed to enable the optimization of photochemical reactions on a small scale, followed by a scale-up using larger batch reactor vessels or a continuous flow glass plate reactor. The Uniqsis PhotoSyn is a powerful LED light source for continuous flow applications. The device is available with a selection of different LED arrays and can provide a power of up to 700 W via the special programmable power supply. These products offer reproducible, uniform light penetration, controlled exposure times and precise temperature control, with which you can achieve higher yields and higher selectivity.",
+    "APPLICATIONS": [
+      "Flow Photochemistry",
+      "Flow Chemistry",
+      "Photochemistry",
+      "Synthesis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Flow reactors",
+      "Photoreactors",
+      "LED Photoreactor modules",
+      "Reactor",
+      "Flow reactors"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Drinks",
+      "Plastic",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Fermenters: Fermenters and bioreactors",
+    "Description": "Safe cultivation of microorganisms and cells with modern plant technology RULAND Engineering & Consulting GmbH Aseptic Technology Fully automated plant control Optimal conditions for the cultivation of fermenters and bioreactors for biotechnological processes For the highly sensitive processes in fermentation, Ruland builds bioreactors and fermenters that optimally control the manufacturing processes. In order to accurately map the biological process sequence, Ruland uses GMP-compliant aseptic technology with fully automated processes. Like all Ruland plant modules, the bioreactors are designed precisely to the product and customer requirements. All bioreactors and fermenters manufactured by Ruland are designed in hygienic design and are CIP or SIP capable. They are suitable for batch, fed-batch and continuous processes. For anaerobic and aerobic processes, for sterile media additions or for in situ media sterilization, Ruland supplies laboratory-scale fermenters as pilot plants or as large-scale industrial fermenters for production. With extensive know-how in plant construction, Ruland accompanies scale up projects, as with all plants, in which production, processes and the product are first tested in small quantities.",
+    "APPLICATIONS": [
+      "Enzyme production",
+      "Fermentation",
+      "Fermentation of yeast",
+      "Fermentation of food",
+      "Fermentation of microorganisms",
+      "Fermentation of cells",
+      "Medical device manufacturing"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Bioreactors",
+      "Fermenters"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Drinks",
+      "Food",
+      "Pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Pycnometer: AccuPyc",
+    "Description": "The fastest, easiest, and most accurate system for measuring true density. Fastest: Finish measurements in 20 to 30% less time than with any other pycnometer. The easiest: hinged, self-aligning lid, touchscreen operation, stored videos. Most accurate: stable at ±0.025°C, advanced gas modeling, repeatable cell closure. Increased speed, accuracy, and ease of use in density measurement. Measure up to 30% faster: New AccuTemp technology stabilizes the system and speeds up analysis. Adjust the temperature as desired (4-60°C). Highest Ease of Use: The new hinged, self-aligning lid is effortless to use and delivers the best repeatable cell volume. The intuitive touchscreen allows you to control and review the results. Save methods, access guides, and manage data with MIC Net. Cell volumes from 0.1 to 100 cm3 help to measure limited materials or heterogeneous samples. The PowderSafe mode, saved methods and built-in tutorials are other reasons for ease of use. Unparalleled accuracy: AccuTemp, self-aligning lid, and advanced gas modeling increase accuracy by 30%. Easy change of the analysis gas; no recalibration required. Faster, easier, and more accurate measurements will benefit scientists in battery development, 3D printing, catalysis, ceramics, pharmaceuticals, and more.",
+    "APPLICATIONS": [
+      "Battery Development",
+      "Battery Research",
+      "Density Measurement",
+      "Ceramic Analysis",
+      "Food Analysis",
+      "Food Analysis",
+      "Materials Testing",
+      "Metal Analysis",
+      "Particle Analysis",
+      "Particle Characterization",
+      "Pharmaceutical Analysis",
+      "Polymer Analysis",
+      "Polymer Analysis",
+      "Powder Characterization"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Pycnometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemicals",
+      "Plastics",
+      "Food",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Raman microscopes: alphaCART",
+    "Description": "Raman microspectroscopy goes mobile: Bring the lab to the sample. Non-destructive analysis of oversized, immobile samples that cannot fit under a microscope. No compromise on resolution and sensitivity for precise chemical detection with Raman. Enable high confocality Examinations of sensitive samples even behind glass. alphaCART is a lightweight, mobile, confocal Raman system for all applications where the laboratory has to be brought to the sample. The Raman probe can be positioned flexibly in front of bulky, immovable or valuable objects This opens up completely new application possibilities for chemical analyzes using Raman spectroscopy. The high confocality and signal sensitivity of the system enable measurements through protective glass or windows, which enables researchers in art, archaeology, geosciences or Materials science will particularly benefit from this versatile and powerful analytical tool because it can be easily set up in the field or in a museum. The complete, independent alphaCART system is housed in a compact, rollable flight case in which all components can be easily and safely transported to on-site experiments.",
+    "APPLICATIONS": [
+      "archaeology",
+      "chemical reaction monitoring",
+      "geochemistry",
+      "confocal Raman microscopy",
+      "materials science",
+      "Raman spectromicroscopy"
+    ],
+    "PRODUCT CATEGORIES": [
+      "mobile measuring systems",
+      "Raman microscopes",
+      "Raman microspectrometers",
+      "Raman spectrometers"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "Name": "UV spectrometer: UV mini spectrometer C16767MA",
+    "Description": "Highly sensitive UV spectrometer for the production of cost-effective environmental measuring devices. Line sensor with increased UV resistance. UV light compatible diffraction grating. Scattered light filter on the line sensor. With the C16767MA, Hamamatsu Photonics presents a newly developed, cost-effective UV-sensitive mini spectrometer Fingertip size, which is highly sensitive in the UV range. It was designed and developed using proprietary MEMS technology (Micro-Electro-Mechanical System) and innovative opto-semiconductor manufacturing technology. The C16767MA resolves UV light in the range of 190 to 440 nm into individual wavelengths in the nanometer range and then simultaneously measures the light intensity at each wavelength.",
+    "APPLICATIONS": [
+      "Air analysis",
+      "Air pollutant analysis",
+      "Process analysis",
+      "UV spectroscopy",
+      "Water analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Mini Spectrometer",
+      "UV Spectrometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Pharma"
+    ]
+  },
+  {
+    "Name": "Raman Spectrometer: Process Guardian",
+    "Description": "Faster, more accurate - simply better: New Raman PAT spectrometer. Seconds instead of minutes - faster analyzes for time-critical applications such as biopharma downstream. ppm measurements with Raman - thanks to outstanding signal quality. Intrinsically safe installation in EX zone 0 possible - that's how much security you need. Users of the Process Guardian (PGr) benefit from its outstanding signal yield. The PGr is many times faster than conventional Raman spectrometers. It delivers results in seconds where other applications could not be implemented can be achieved with Raman spectroscopy. This applies in particular to time-critical purification processes, such as in the biopharma DSP sector. Consistently designed as a PAT spectrometer, the PGr can be operated directly on the device and remotely. of-the-Art: OPC communication, up to 8-fold multiplex, ATEX Zone 0 suitability, various prediction engines (PEAXACT, SOLO, SIMCA, CAMO), pharmaceutical compliance protocols, robust duplex light guides with integrated breakage protection . The variety of probes is also exceptional: contactless probes with changeable focus points, immersion probes in various dimensions and materials, autoclavable flow cells. Special probes are available for Sartorius Ambr and BioSTAT systems.",
+    "APPLICATIONS": [
+      "archaeology",
+      "chemical reaction monitoring",
+      "geochemistry",
+      "confocal Raman microscopy",
+      "materials science",
+      "Raman spectromicroscopy",
+      "air analysis",
+      "air pollutant analysis",
+      "process analysis",
+      "UV spectroscopy",
+      "water analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "mobile measuring systems",
+      "Raman microscopes",
+      "Raman microspectrometers",
+      "Raman spectrometers",
+      "mini spectrometers",
+      "UV spectrometers"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "Beverages",
+      "Plastics",
+      "Food",
+      "Pharmaceuticals",
+      "Biotechnology"
+    ]
+  },
+  {
+    "Name": "Spectrometer: OPAL-Luxe Spectrometer",
+    "Description": "The new innovative spectrometer OPAL-Luxe with extremely high dynamic range. Extremely high dynamic range. Simultaneous measurement of strong and weak signals. Unique opto-semiconductor and software technology. Using our unique opto-semiconductor design technology as well as our software technology, a A new spectrometer with an extremely high dynamic range of 2,500,000 - 1 in the spectral range of 200 nm - 900 nm is being developed, which enables the simultaneous measurement of strong and weak signals. This is approximately 100 times higher than with conventional spectrometers that were previously not detectable. The revision of the optical system in the OPAL-Luxe enables the improvement of the spectral resolution without affecting the sensitivity. At the same time, a high level of measurement accuracy is achieved by suppressing the generation of scattered light the simultaneous analysis of different substances in one sample.",
+    "APPLICATIONS": [
+      "Thickness measurements",
+      "optical density measurement",
+      "photoluminescence spectroscopy",
+      "photoluminescence measurement",
+      "spectroscopy"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Photoluminescence Spectrometer",
+      "Spectrometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "Plastics"
+    ]
+  },
+  {
+    "Name": "FT-IR Spectrometer: ERASPEC",
+    "Description": "Easiest fuel analysis in seconds with ERASPEC. Comprehensive analysis of gasoline, diesel and jet fuel at the touch of a button in the laboratory and in the field. Pre-installed, easily expandable and transferable spectral libraries. Standards: ASTM D5845, D6277. D7806, D4052, D7777, EN238 , EN14078, etc. With the fully automated FTIR spectrometer ERASPEC you can easily and quickly carry out comprehensive fuel analyzes At the push of a button, ERASPEC provides over 40 fuel parameters, such as benzene, oxygenates and aromatics, density as well as complex properties such as octane and cetane numbers. Distillation properties as well as properties such as TAN and TBN within a few seconds. In addition to the robust and portable device design, laboratory-quality results are displayed directly on site. Your advantages: Comprehensive analysis of gasoline, diesel and aircraft fuel .Innovative multiple cell design. Built-in high-precision and ultra-light density module DENS7777 or DENS4052. User-friendly software with direct LIMS communication. On-site determination of gasoline contamination. 10-position autosampler for high sample throughput. ASTM and DIN methods.",
+    "APPLICATIONS": [
+      "Density measurement",
+      "Infrared spectroscopy",
+      "Fuel analysis",
+      "Fuel analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Flexible Oscillators",
+      "FT-IR Spectrometers",
+      "Fuel Analyzers"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry"
+    ]
+  },
+  {
+    "Name": "New ICP-OES PlasmaQuant 9100 for complex sample matrices",
+    "Description": "Maximum reliability thanks to high-resolution optics. Superior analytical performance and wide range of applications. Increased productivity thanks to efficient analysis of matrix-rich samples. With the PlasmaQuant 9100 and PlasmaQuant 9100 Elite, Analytik Jena presents the consistent further development of its ICP-OES portfolio The new ICP-OES series offers more automation, greater customization and accelerated analysis sequences. The PlasmaQuant 9100 series is ideal for laboratories with difficult-to-analyze sample matrices and an ever-increasing sample volume the chemical industry, the oil & gas industry, the mining and the metal processing industry.",
+    "APPLICATIONS": [
+      "Elementary Analysis",
+      "ICP-OES",
+      "Material analysis",
+      "optical emission spectrometry",
+      "Routine Analytics",
+      "spectroscopy",
+      "trace analysis",
+      "Environmental analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "ICP-OES spectrometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "plastics",
+      "Groceries",
+      "pharmaceutical"
+    ]
+  },
+  {
+    "Name": "contrAA 800 Series – Atomic Absorption. Redefined",
+    "Description": "Simple and cost-efficient multi-element analysis. High-resolution optics: interference-free analysis and maximum precision. Multi element: A light source for fast-sequential and simultaneous multi-element analysis. More than a decade after the market launch of the contrAA family, the High -Resolution Continuum Source AAS (HR-CS AAS) firmly established as a unique analysis technique, thanks to a xenon lamp that emits a continuous spectrum with high intensity, every element and every wavelength can be analyzed easily and at any time. The high-resolution spectrometer with CCD detector creates a high-resolution absorption spectrum for each sample and, in addition to quantitative evaluation, also enables qualitative statements about the sample. Functions such as fast sequential and simultaneous multi-element analysis, including semi-quantitative overview screenings of unknown samples and the analysis of non-metals, have new fields of application that were previously reserved for other, much more expensive technologies. Superior correction algorithms for background and spectral interference make the AAS more productive than ever before - while remaining as simple, robust and cost-effective to operate as it is valued for.",
+    "APPLICATIONS": [
+      "Atomic absorption spectrometry",
+      "Elementary Analysis",
+      "Flame-AAS",
+      "Graphite tube AAS",
+      "Graphite tube technology",
+      "High-Resolution Continuum Source AAS",
+      "Hydride AAS",
+      "ICP-OES",
+      "multi-element analysis",
+      "Multi-element analysis",
+      "Routine Analytics",
+      "spectroscopy",
+      "trace analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "AAS spectrometer",
+      "Atomic absorption spectrometer",
+      "ICP-OES spectrometer",
+      "Spectrometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Biotechnology",
+      "Chemistry",
+      "Beverages",
+      "plastics",
+      "Groceries",
+      "pharmaceutical"
+    ]
+  },
+  {
+    "Name": "Patented Spectrophotometer",
+    "Description": "The classic 8°/d measuring geometry is available for clear samples. Various expansion levels in the spectral range UV, VIS to IR. Patented measuring system. The SphereSpectro 150H laboratory measuring device is a unique spectrophotometer system for the simultaneous differentiation and quantification of the spectral absorption coefficient as also the spectral effective scattering coefficient of scattering media (patented). Different versions are available for the UV, VIS and IR spectral range. The classic 8°/d measurement geometry can be used for clear samples.",
+    "APPLICATIONS": [
+      "biophotonics",
+      "Chemometrics",
+      "Content determination",
+      "cosmetics",
+      "Food analysis",
+      "Material analysis",
+      "Pharmacy",
+      "Quality assurance",
+      "spectrophotometry",
+      "Material analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "spectrophotometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "Beverages",
+      "plastics",
+      "Groceries",
+      "pharmaceutical"
+    ]
+  },
+  {
+    "Name": "The powerful and high-quality ICP-OES solution for routine element analysis",
+    "Description": "Dual side-on interface with improved sensitivity up to a factor of 2. High measuring speed: fast, simultaneous spectra acquisition, short sample-to-sample times. Low operating costs: minimal 0.5 l/min optics flushing, no water cooling required . The new SPECTRO GENESIS ICP-OES: extensively improved with a new, compact design and state-of-the-art technology - the “gold standard” among spectrometers for routine analysis. The easy-to-use ICP-OES device scores with long-lasting industrial quality and high sample throughput is surprisingly inexpensive to purchase and operate. Its linear dynamic range enables analyzes from ppb to percentage values. In addition, the new DSOI plasma interface ensures significantly higher measurement sensitivity and delivers fast and precise analysis for a wide range of emission control and Process control applications. For many environmental, industrial and research laboratories, the SPECTRO GENESIS is the cost-effective device of choice - for easy analysis of wastewater, petrochemical and chemical samples and much more.",
+    "APPLICATIONS": [
+      "wastewater analysis",
+      "Chemical Analysis",
+      "Elementary Analysis",
+      "ICP-OES",
+      "fuel analysis",
+      "oil analysis",
+      "Routine analytics"
+    ],
+    "PRODUCT CATEGORIES": [
+      "Elemental Analyzers",
+      "ICP-OES spectrometer"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "plastics",
+      "pharmaceutical"
+    ]
+  },
+  {
+    "Name": "The all-rounder for photometric water analysis",
+    "Description": "Universal - Large range of test kits that can be evaluated. Intuitive - Icon-based menu navigation and barcode technology. Safe - Automatic detection of disturbing turbidities. In the NANOCOLOR Advance, MACHEREY-NAGEL combines the most important features from our portable compact photometers and high-precision spectrophotometers. The Advance has all the advantages of a modern spectrophotometer and combines high-quality results with outstanding user-friendliness. The icon-based menu navigation and the colored 5 touchscreen enable operation like on your smartphone or tablet. The integrated barcode scanner guarantees fast and convenient work NTU-Check warns the user of disturbing turbidity. Easy-to-use quality control functions enable efficient and precise control of the measured value quality. Over 220 pre-programmed methods and a simply structured menu for programming user methods make the NANOCOLOR Advance the ideal device for all water and Wastewater analysis. Future-proof interfaces and network capability round off the package and make the NANOCOLOR Advance ready for the coming requirements of the digital world.",
+    "APPLICATIONS": [
+      "Wastewater analysis",
+      "Chemical oxygen demand analysis",
+      "Food analysis",
+      "Phosphate analysis",
+      "Nitrogen analysis",
+      "Drinking water analysis",
+      "Water analysis"
+    ],
+    "PRODUCT CATEGORIES": [
+      "spectrophotometer",
+      "portable measuring devices"
+    ],
+    "TARGET INDUSTRIES": [
+      "Chemistry",
+      "Beverages",
+      "Groceries"
+    ]
+  }
+]
